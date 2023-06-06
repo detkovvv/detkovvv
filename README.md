@@ -32,7 +32,5 @@
 
 <!-- [![Twitter: godcrampy](https://img.shields.io/badge/godcrampy-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)] -->
 <!-- (my twitter link) -->
-<!--[![Linkedin: Detkov Vasiliy](https://img.shields.io/badge/Detkov%20Vasiliy-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasiliy-detkov-056a9b122/)-->
 [![GitHub DetkovVasiliy](https://img.shields.io/badge/DetkovVasiliy-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/godcrampy](https://github.com/detkovvv))
-<!-- [![Website](https://img.shields.io/badge/sahil.surge.sh-005AF0?style=for-the-badge&logo=amp&logoColor=white)](my website link) -->
-<!-- [![Instagram](https://img.shields.io/badge/sahil.bondre-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](my inst link) -->
+
