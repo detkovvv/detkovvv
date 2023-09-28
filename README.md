@@ -32,5 +32,6 @@
 
 <!-- [![Twitter: godcrampy](https://img.shields.io/badge/godcrampy-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)] -->
 <!-- (my twitter link) -->
-[![GitHub DetkovVasiliy](https://img.shields.io/badge/DetkovVasiliy-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/godcrampy](https://github.com/detkovvv))
+[![Linkedin: VasiliY Detkov](https://img.shields.io/badge/Detkov%20Vasiliy-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasily-detkov-256847293/)
+[![GitHub DetkovVasiliy](https://img.shields.io/badge/Detkov%20Vasiliy-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/godcrampy](https://github.com/detkovvv))
 
