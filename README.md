@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Vasiliy Detkov. 
-<span style:"color:black"> [Portfolio](https://detkovvv.github.io/portfolio-app/)</span>
+# [Portfolio](https://detkovvv.github.io/portfolio-app/)
 &nbsp;
 &nbsp;
 &nbsp;
