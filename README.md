@@ -34,5 +34,5 @@
 <!-- (my twitter link) -->
 <!-- [![Linkedin: VasiliY Detkov](https://img.shields.io/badge/Detkov%20Vasiliy-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasily-detkov-256847293/) -->
 [![GitHub DetkovVasiliy](https://img.shields.io/badge/Detkov%20Vasiliy-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/godcrampy](https://github.com/detkovvv))
-[![Telegram: VasiliY Detkov](https://img.shields.io/badge/Detkov%20Vasiliy-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/detkovvv)
+[![Telegram: VasiliY Detkov](https://img.shields.io/badge/Detkov%20Vasiliy-%238DD6F9.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/detkovvv)
 
