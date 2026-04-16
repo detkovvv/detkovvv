@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Vasiliy Detkov. 
 
-#  -->[Portfolio](https://detkovvv.github.io/portfolio-app/)<-- 
+/* #  -->[Portfolio](https://detkovvv.github.io/portfolio-app/)<-- */
 
 &nbsp;
 &nbsp;
